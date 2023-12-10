@@ -125,6 +125,8 @@ h1{
     flex-wrap: wrap;
     justify-content: space-evenly;
     margin-top: 5%;
+    overflow: hidden;
+
 
 }
 .services div{
